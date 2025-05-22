@@ -1,1 +1,8 @@
-
+{
+  "name": "chatgpt-backend",
+  "version": "1.0.0",
+  "description": "Simple backend to connect to ChatGPT API",
+  "dependencies": {
+    "openai": "^4.20.0"
+  }
+}
